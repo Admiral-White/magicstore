@@ -1,7 +1,7 @@
-![Pikinhop logo](/static/images/pikinhoplogowhite.jpg "Pikinhop logo")
+
 ## eCommerce Store 
 ### [Semicolon Africa](https://www.semicolon.africa/)
-##### <em>Raphael Sani</em>
+##### <em>Mike Inyang</em>
 ###### Cohort 4
 ###### October 5, 2020
 
